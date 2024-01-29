@@ -4,7 +4,7 @@
 ### Team:
 Noah Leon - [@noahnbleon](https://github.com/noahnbleon)\
 Hadden Peel - [@hmpeel](https://github.com/hmpeel)\
-Alexa Robles - [@AlexaRobles](https://github.com/alexarobles)\
+Alexa Robles - [@alxaro](https://github.com/alxaro)\
 Dylan Vila - [@dylanvila](https://github.com/dylanvila)\
 Hermandez Wynn - [@dez-wynn](https://github.com/dez-wynn)
 
